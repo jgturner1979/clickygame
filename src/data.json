@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/dad.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/mom.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/randy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/ralphieslide.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/leglamp.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/flick.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/ralphieeasterbunny.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/redryder.jpg",
+      "clicked": false
+    }
+]
